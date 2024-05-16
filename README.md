@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palash-verma
-- 👀 I’m interested in electrical and electronics engineering
+- 👀 I’m interested in Electrical and Electronics engineering
 - 🌱 I’m currently learning OpenCV
 - 💞️ I’m looking to collaborate on projects related to electrical or electronics engineering
 - 📫 How to reach me: https://www.linkedin.com/in/palash-verma-5b5a12258/
